@@ -1,4 +1,6 @@
+<p align="center"
 ![scott the froge](https://avatars.githubusercontent.com/u/157515454?s=200&v=4)
+</p>
 
 <div align="center">
   <h1>
